@@ -1,1 +1,2 @@
-![Alt text](/../<branch Power-BI---Salary->/path/to/salary bi.png?raw=true "Optional Title")
+
+[![salary-Bi.png](https://i.postimg.cc/tgz5fQ4n/salary-Bi.png)](https://postimg.cc/hJfTzYxK)
